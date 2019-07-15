@@ -1,4 +1,4 @@
-# JavaScript Fundamentals: Arrays Lab
+cle# JavaScript Fundamentals: Arrays Lab
 
 ## Learning Goals
 
